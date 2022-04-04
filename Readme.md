@@ -1,5 +1,5 @@
-Người thực hiện: Lê Trần Văn Chương
-Deadline: 31/03 - 02/04/2022
+Người thực hiện: Lê Trần Văn Chương.
+Deadline: 31/03 - 02/04/2022.
 Mục lục:
 - Lỗ hổng SQL Injection Time Based và Boolean Based là gì?
 - Lab Blind SQLi

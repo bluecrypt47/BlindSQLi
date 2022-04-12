@@ -1,9 +1,9 @@
 Người thực hiện: Lê Trần Văn Chương.
 Deadline: 31/03 - 02/04/2022.
 Mục lục:
-- Lỗ hổng SQL Injection Time Based và Boolean Based là gì?
-- Lab Blind SQLi
-- Code PoC
+- [Lỗ hổng SQL Injection Time Based và Boolean Based là gì?](#lỗ-hổng-sql-injection-time-based-và-boolean-based-là-gì)
+- [Lab Blind SQLi?](#lab-blind-sqli)
+- [Code PoC](#code-poc)
 
 ## Lỗ hổng SQL Injection Time Based và Boolean Based là gì?
 - Time-based SQLi đây là 1 kỹ thuật tấn công chậm, mục đích làm trì hoãn việc truy vấn dữ liệu từ client. Trong khoảng thời gian bị trì hoãn đó kẻ tấn công có thể thực hiện các câu truy vấn khác và sau khi có phản hồi thì kẻ tấn công của có thể biết được loại DB mà máy chủ đang dụng.
